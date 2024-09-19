@@ -1,0 +1,23 @@
+# SALES_FORECASTING
+                                        ABOUT PROJECT
+     Leveraging advanced data analysis techniques, particularly specialized in time series analysis, my approach delivered valuable insights for precise sales forecast
+ing with the help of Power BI. This strategic methodology, coupled with interactive dashboard creation, proved instrumental in driving business success, providing real-
+time visibility to over 4 KPIs and enabling informed decision-making. Data was divided into 4 regions, enhancing localized strategy development. One of the conclusions
+was that 30% of payments were made online, highlighting shifts towards digital transactions. Additionally, significant conclusions were drawn about logistic management,
+discount offers on cards, and demand and supply management. 
+
+                                          PROCESS
+- Import Data in Power BI
+- Data Cleaning & Processing in Power BI
+- Power Query Editor in Power BI
+- DAX in Power BI
+- Measures and Calculations in Power BI
+- Create New Columns and Tables in Power BI
+- Advanced Charts and Maps in Power BI
+- Filters and Slicers in Power BI
+- Zoom in Charts in Power BI
+- Dashboard Design in Power BI 
+- Forecasting in Power BI
+- Power BI Sales Forecast
+- Export Power BI Dashboard
+- Insights from Dashboard                                   
